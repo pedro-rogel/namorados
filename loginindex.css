@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(249, 54, 54);
+    width: 100%;
+    height: 100%;
+    background-image: url(./img/pngtree-valentines-day-red-hearts-background-image_523161.jpg);
+}
+
+h3{
+    color: #fff;
+}
+
+form{
+    width: 300px;
+    margin: 200px auto;
+    text-align: center;
+    border: 2px solid rgb(246, 107, 107);
+    background-color: rgba(246, 107, 107, 0.462);
+    border: transparent;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    height: 30px;
+}
+
+h2{
+    text-align: left;
+    border: 2px solid transparent;
+    background-color: rgba(255, 0, 0, 0.581);
+    border-radius: 12px;
+    font-family:cursive;
+    color: rgb(62, 0, 13);
+}

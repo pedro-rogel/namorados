@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background-color: #fb525299;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-image: url(./img/pngtree-red-and-white-heart-background-design-picture-image_1307823.jpg);
+    background-size: cover;
+
+
+}
+
+.texto {
+    text-align: center;
+    padding: 50px;
+    background-color: #fb525299;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: #fff
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff
+}
+
+.cartao-maior:hover,
+.cartoes-menores1:hover,
+.cartoes-menores2:hover,
+.cartoes-menores3:hover,
+.cartoes-menores4:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.container {
+    max-width: 1440px;
+    max-height: 1440px;
+}
+
+.container-2 {
+    border: 2px solid transparent;
+    width: 1440px;
+    height: 950px;
+    margin: auto;
+    background-color: #f5000099;
+    border-radius: 20px;
+    
+}
+
+.cartao-maior {
+    width: 600px;
+    height: 350px;
+    background-size: cover;
+    background-image: url(./img/07439e49-9d38-4ec2-8d0b-3a225c480656.jpg);
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    flex-wrap: wrap;
+}
+
+.cartoes-menores1 {
+    background-image: url(./img/1af9a78d-3e18-4a2f-baa0-8ed03b4a007b.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin: 15px;
+    margin-bottom: 0px;
+    margin-left: 418px;
+    margin-right: auto;
+    border-radius: 10px;
+    flex-wrap: wrap;
+
+}
+
+
+
+.cartoes-menores2 {
+    background-image: url(./img/9058F915-5FD9-405A-BBD9-F7F706D7E125.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin: 15px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: 418px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+
+
+.cartoes-menores3 {
+    background-image: url(./img/d32ff4c8-3787-4c10-9069-0c11cac5f930.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin: 15px;
+    margin-top: 0px;
+    margin-left: 418px;
+    margin-right: auto;
+    border-radius: 10px;
+    flex-wrap: wrap;
+
+
+
+
+}
+
+.cartoes-menores4 {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    background-image: url(./img/IMG_9151.jpg);
+    margin-left: auto;
+    margin-right: 418px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+
+}
+
+.eu-te-amo {
+    text-align: center;
+    width: 200px;
+    height: 105px;
+    margin: auto;
+    padding: 10px;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 12px;
+    background-size: cover;
+    font-family: cursive;
+
+}
+
+
+
+.outras-duas {
+    display: flex;
+
+}
+
+.primeiras {
+    display: flex;
+
+}
